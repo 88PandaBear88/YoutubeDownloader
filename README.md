@@ -8,6 +8,7 @@ if someone want to take this program source-code as your program base you're ver
 
 because i'm indonesian people so i use indonesian language as base text in my GUI
 
-![ss](https://user-images.githubusercontent.com/101252802/160270132-a63a0c03-4022-45a2-b4fa-5dfa008e9e8f.png)
+![ss](https://user-images.githubusercontent.com/101252802/160270390-eec97bed-cfd8-4faa-810e-c7c51199cadf.png)
 
-thank you from me Pandabear
+
+Thank you from me Pandabear
